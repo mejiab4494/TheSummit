@@ -1,0 +1,48 @@
+a:hover {
+  color: #2176FF;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.nav-link {
+  text-decoration: none;
+}
+
+.nav-link:active {
+  color: black;
+}
+
+ .btn {
+  background-color: #2176FF;
+  border-radius: 2px;
+  color: #ffffff;
+  font-family: 'Raleway',sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  padding: 14px;
+  text-decoration: none;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+/*Button  flat design */
+
+.btn:hover {
+  background-color: white;
+}
+/*Moving mouse over will change the color of the color*/
+
+.btn:active {
+  background-color: lightgreen;
+}
+/*backgorund color will change when press */
+
+.activity:hover {
+  color: cyan;
+  text-decoration: underline;
+  cursor: pointer;
+}
+/*Makes the button look clickable */
+
+.activity:active {
+  color: lightgreen;
+}
